@@ -3,7 +3,7 @@
 A customized dark theme for Board Game Arena.
 
 ## Preview
-![Preview of BGA Dark Theme](./images/screenshot.png)
+![Preview of BGA Dark Theme](./images/screenshot.jpg)
 
 ## Installation
 1. Copy the style from here [dark-theme.css](https://github.com/bm-yamaguchi/bga-dark-theme/blob/master/dark-theme.css)
