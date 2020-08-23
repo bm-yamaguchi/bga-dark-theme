@@ -11,3 +11,5 @@ A customized dark theme for Board Game Arena.
 
 ## Features
 - Majority of game screen re-styled
+- Adjusted the balance of the UI, including margins and size.
+- Fixed header's layout is off
