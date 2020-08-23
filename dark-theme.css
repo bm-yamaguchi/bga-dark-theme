@@ -1,0 +1,89 @@
+html {
+background:#36393f;
+}
+
+#topbar {
+background:#1f2225;
+box-shadow:none;
+border-bottom:1px solid #151719;
+}
+
+#topbar a {
+color:#fff;
+}
+
+#player_boards {
+min-height:100vh;
+padding:8px;
+}
+
+.player-board {
+background-color:#1f2227;
+color:#e3e7ec;
+border-radius:4px;
+box-sizing:border-box;
+box-shadow:none;
+padding:11px;
+}
+
+.logs_on_additional_column #right-side {
+background:#2c2f35;
+margin-top:-9px;
+}
+
+.logs_on_additional_column #right-side-second-part {
+background-color:#282b31;
+margin-top:-10px;
+box-sizing:border-box;
+min-height:100vh;
+padding:12px;
+}
+
+#logs .roundedbox {
+background-color:transparent;
+color:#c0c6d0;
+line-height:1.3;
+box-sizing:border-box;
+font-size:13px;
+padding:0 0 6px;
+}
+
+.chatwindowlogs_zone .timestamp,#logs .timestamp {
+text-align:left;
+}
+
+.game-content {
+padding:30px;
+}
+
+#page-title {
+background-color:#1a1d1f;
+color:#d2d6e0;
+margin:-15px 30px 0 33px;
+padding:12px 0;
+}
+
+.current_player_is_active #page-title {
+background-color:#4b10a9;
+}
+
+.replay_last_move_button {
+background:#3a404c;
+color:#bfc5cf!important;
+border:1px solid #1f2225;
+font-size:13px;
+margin:0;
+padding:10px 15px 8px;
+}
+
+.replay_last_move_button span {
+display:none;
+}
+
+#logs {
+margin-top:0;
+}
+
+.table_ref_item {
+margin-bottom:-1px;
+}
